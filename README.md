@@ -635,7 +635,9 @@ The normalized schema avoids repeating investor and startup attributes in every 
 | Linear Regression forecasts $325.43M over the next 12 months | Sum of forecasted monthly funding | Trend baseline suggests continued funding expansion. |
 | ARIMA forecasts $298.02M over the next 12 months | Sum of ARIMA forecasted monthly funding | Alternative time-series view is slightly more conservative. |
 
-### Top 10 ranked startups
+### Ranked startups
+
+The scoring output contains all 15 companies in the sample dataset. The table below shows the top 10 for readability; the complete ranking is available in `outputs/top_50_startups.csv`.
 
 | Rank | Startup | Sector | City | Score |
 |---:|---|---|---|---:|
