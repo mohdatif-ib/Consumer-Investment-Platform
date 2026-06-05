@@ -1,0 +1,16 @@
+startup_id,company_name,sector,city,founded_year,startup_description
+1,AuraSnack,Food & Beverage,Austin,2020,Functional snack brand focused on protein-rich products for urban professionals.
+2,BrightBrew,Food & Beverage,Portland,2020,Ready-to-drink coffee brand with sustainable packaging and premium convenience positioning.
+3,EcoCrate,Home & Lifestyle,San Diego,2021,Reusable household essentials brand reducing single-use packaging.
+4,FitFuel,Health & Wellness,Nashville,2019,Sports nutrition brand built around clean-label performance products.
+5,FreshForge,Food & Beverage,Chicago,2017,Frozen meal brand serving health-conscious families through grocery and direct channels.
+6,GlowNest,Beauty & Personal Care,Los Angeles,2019,Clean beauty platform selling refillable skincare products through DTC and retail.
+7,HomeMint,Home & Lifestyle,Seattle,2018,Digitally native home goods brand with premium modular storage and decor.
+8,KindCart,Retail Tech,Boston,2021,Retail enablement platform helping emerging consumer brands manage wholesale operations.
+9,LoopWear,Fashion & Apparel,New York,2021,Circular fashion marketplace using resale data to create sustainable capsule collections.
+10,LuxeLeaf,Beauty & Personal Care,London,2020,Botanical skincare brand scaling across premium retail partners.
+11,PetPulse,Pet Care,Denver,2020,"Subscription pet wellness brand combining supplements, diagnostics, and tele-vet support."
+12,SkinTheory,Beauty & Personal Care,Miami,2018,Clinical skincare brand combining dermatologist-led formulas with personalized regimens.
+13,TinyTrail,Pet Care,Berlin,2022,Premium pet travel accessories brand with marketplace-led distribution.
+14,UrbanTiffin,Food & Beverage,Bengaluru,2021,Fresh meal subscription brand serving office workers in major Indian metros.
+15,VitaBloom,Health & Wellness,San Francisco,2019,"Women's wellness brand blending supplements, coaching, and personalized subscriptions."
